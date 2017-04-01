@@ -1,4 +1,5 @@
 WHAT IS IT?
+
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 Have you ever forgot the birthday of a friend, colleague or customer because Outlook did not remind you about it?
 The reason for this may be that you set or updated birthdays and anniversariers on your mobile or in webmail and not in the full Outlook client on Windows. Usually, the reminders then do not appear in your Outlook calendar and your Outlook birthday calendar.
